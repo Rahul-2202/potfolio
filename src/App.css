@@ -3,16 +3,27 @@
 }
 .navlink {
   color: #2c92bf;
+  font-size: 1.5em;
 }
 .navlinkactive {
   color: #eb8a1b;
+  font-size: 1.5em;
 }
 .navlinkhead {
   color: #11c7a5;
+  font-size: 1.5em;
 }
 .navhover:hover {
   color: #eb8a1b;
 }
 .bghero {
   background-color: #201732;
+}
+.name {
+  color: #11c7a5;
+  font-size: 2.5em;
+}
+.info {
+  color: white;
+  font-size: 1em;
 }
